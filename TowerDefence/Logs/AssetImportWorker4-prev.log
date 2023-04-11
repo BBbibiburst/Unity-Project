@@ -1,0 +1,22 @@
+Using pre-set license
+Built from '2020.3/china_unity/release' branch; Version is '2020.3.32f1c1 (76260b79758e) revision 7742987'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.18363) 64bit CoreCountrySpecific' Language: 'zh' Physical Memory: 8092 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+E:\Unity Hub\2020.3.32f1c1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+E:/Gameproject/TowerDefence
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+53601
+Successfully changed project path to: E:/Gameproject/TowerDefence
+E:/Gameproject/TowerDefence
+Using Asset Import Pipeline V2.
+AS: AutoStreaming module initializing.

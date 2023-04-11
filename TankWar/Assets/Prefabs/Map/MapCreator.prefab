@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1429866598759478268
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9153120398748617836}
+  - component: {fileID: 929946824668515558}
+  m_Layer: 0
+  m_Name: MapCreator
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9153120398748617836
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1429866598759478268}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.79709196, y: 2.4644558, z: -1.3437922}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &929946824668515558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1429866598759478268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e914a84caa45bfb4c84fb45aefb9ef43, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GameObjects:
+  - {fileID: 2322803778716216270, guid: c6fb2b9d258368e42af2a33fc93ef10c, type: 3}
+  - {fileID: 4817040317753212423, guid: 54884b690ed6a134db50d980823640c4, type: 3}
+  - {fileID: 842632252623791919, guid: 040bc92e7f1ce27429c5cdc6504c6721, type: 3}
+  - {fileID: 7590395554900339403, guid: eba3bb7133c05ce4b9aa9b27786dff70, type: 3}
+  - {fileID: 7953059643641770150, guid: 6efc2ca933e86aa459e76e1f7712acd7, type: 3}
+  - {fileID: 3754660563078869490, guid: e6fafbc0c3c38de428b54cd36b2744c2, type: 3}
+  - {fileID: 1329846808272472865, guid: 2f57f2a1efd48c1489265972c4994e0b, type: 3}
+  - {fileID: 7896609771562857257, guid: 4e98a41ef551bee41b1f64b90f778c8e, type: 3}
+  - {fileID: 1211113875159256908, guid: 4c6b5ba0716bb9247bd013283017adbd, type: 3}
+  txtReader: {fileID: 4900000, guid: e00b204efdf092445b60f65aabedf579, type: 3}
